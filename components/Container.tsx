@@ -105,7 +105,7 @@ export const Container: React.VFC<Props> = ({
         )}
         twitter={{
           card: "summary_large_image",
-          site: "@yokinist",
+          site: "@armtic",
         }}
       />
       <div
