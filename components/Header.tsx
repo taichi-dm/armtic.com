@@ -110,7 +110,7 @@ export const Header: React.VFC<HeaderProps> = ({ navBarTitle, fullWidth }) => {
         <div className="flex items-center">
           <Link href="/" aria-label={BLOG.title}>
             <div className="min-w-max">
-              <Twemoji emoji={"👋"} size={28} />
+              <Twemoji emoji={"🌵"} size={28} />
             </div>
           </Link>
           {navBarTitle ? (

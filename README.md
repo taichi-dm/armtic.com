@@ -1,16 +1,16 @@
-# yokinist.me
+# armtic.com
 
 A static blog build on top of Notion and Nextjs, deployed
-on [Vercel](https://vercel.com?utm_source=yokinist&utm_campaign=oss).
+on [Vercel](https://vercel.com?utm_source=armtic&utm_campaign=oss).
 
 This repo is customized based on [craigary/nobelium](https://github.com/craigary/nobelium).
 
 <p>
-  <a aria-label="GitHub commit activity" href="https://github.com/yokinist/yokinist.me/commits/main" title="GitHub commit activity">
-    <img src="https://img.shields.io/github/commit-activity/m/yokinist/yokinist.me?style=for-the-badge">
+  <a aria-label="GitHub commit activity" href="https://github.com/armtic/armtic.com/commits/main" title="GitHub commit activity">
+    <img src="https://img.shields.io/github/commit-activity/m/armtic/armtic.com?style=for-the-badge">
   </a>
   <a aria-label="Build status" href="#" title="Build status">
-    <img src="https://img.shields.io/github/deployments/yokinist/yokinist.me/Preview?logo=Vercel&style=for-the-badge">
+    <img src="https://img.shields.io/github/deployments/armtic/armtic.com/Preview?logo=Vercel&style=for-the-badge">
   </a>
   <a aria-label="Powered by Vercel" href="https://vercel.com?utm_source=Craigary&utm_campaign=oss" title="Powered by Vercel">
     <img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" height="28">
@@ -51,17 +51,17 @@ This repo is customized based on [craigary/nobelium](https://github.com/craigary
 
 - Star this repo 😉
 -
-Duplicate [this Notion template](https://yokinist.notion.site/761c04c4ff6e467188fe67c8a36e20b9?v=0643f1ef640642fbb84032202708336f),
+Duplicate [this Notion template](https://armtic.notion.site/761c04c4ff6e467188fe67c8a36e20b9?v=0643f1ef640642fbb84032202708336f),
 and share it to the public
 
-- [Fork](https://github.com/yokinist/yokinist.me/fork) this project
+- [Fork](https://github.com/armtic/armtic.com/fork) this project
 - Customize `blog.config.js`
 - _(Optional)_ You can customize tags in `lib/tags.ts` to match those in your Notion database.
 - _(Optional)_ You can add animation to your profile by specifying the profile image block class in `style/notion.css`
 
 <details><summary>How to check the block class？</summary>
 
-![](https://github.com/yokinist/yokinist.me/assets/19779874/16263594-0bce-4899-a76d-a619fd961ab5)
+![](https://github.com/armtic/armtic.com/assets/19779874/16263594-0bce-4899-a76d-a619fd961ab5)
 </details>
 
 - _(Optional)_ Replace `favicon.svg`, and `favicon.ico` in `/public` folder with your own
@@ -72,7 +72,7 @@ and share it to the public
 - **That's it!** Easy-peasy?
 
 <details><summary>Wait for a sec, what is Page ID？</summary>
-  <img src="https://github.com/yokinist/yokinist.me/blob/main/pageid.png?raw=true">
+  <img src="https://github.com/armtic/armtic.com/blob/main/pageid.png?raw=true">
 </details>
 
 ## Getting started in developing
@@ -119,7 +119,7 @@ Check out our roadmap [here](https://www.notion.so/craigary/Public-Roadmap-3cfc4
 <table><tr align="left">
 <td align="center"><a href="https://github.com/craigary" title="Craig Hart"><img src="https://avatars.githubusercontent.com/u/10571717" width="64px;" alt="Craig Hart"/></a><br/><a href="https://github.com/craigary" title="Craig Hart">Craig Hart</a></td>
   <td align="center"><a href="https://notion.so/cnotion" title="Notion CN Community"><img src="https://avatars.githubusercontent.com/u/4792552" width="64px;"alt="Notion CN Community"/></a><br/><a href="https://notion.so/cnotion" title="Notion CN Community">Notion CN Community</a></td>
-  <td align="center"><a href="https://twitter.com/SilentDepthCN" title="SilentDepth"><img src="https://avatars.githubusercontent.com/u/7194254" width="64px;" alt="yokinist"/></a><br/><a href="https://twitter.com/SilentDepthCN" title="SilentDepth">SilentDepth</a></td>
+  <td align="center"><a href="https://twitter.com/SilentDepthCN" title="SilentDepth"><img src="https://avatars.githubusercontent.com/u/7194254" width="64px;" alt="armtic"/></a><br/><a href="https://twitter.com/SilentDepthCN" title="SilentDepth">SilentDepth</a></td>
   <td align="center"><a href="https://leerob.io/" title="Lee Robinson"><img src="https://avatars.githubusercontent.com/u/9113740" width="64px;" alt="Reynard"/></a><br/><a href="https://leerob.io" title="Lee Robinson">Lee Robinson</a></td>
   <td align="center"><a href="https://spencerwoo.com/" title="Spencer Woo"><img src="https://avatars.githubusercontent.com/u/32114380" width="64px;" alt="Niin"/></a><br/><a href="https://spencerwoo.com" title="Spencer Woo">Spencer Woo</a></td>
 </tr></table>

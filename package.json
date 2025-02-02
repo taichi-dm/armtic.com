@@ -1,11 +1,11 @@
 {
-  "name": "yokinist.me",
+  "name": "armtic.com",
   "version": "1.0.0",
-  "homepage": "https://yokinist.me",
+  "homepage": "https://armtic.com",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yokinist/yokinist.me.git"
+    "url": "https://github.com/armtic.com/armtic.com.git"
   },
   "scripts": {
     "dev": "next dev -p 8080",

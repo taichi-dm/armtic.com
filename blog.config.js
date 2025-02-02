@@ -2,14 +2,14 @@
  * @type {import('~/types').BlogConfig}
  */
 const BLOG = {
-  title: "yokinist.me",
-  author: "yokinist",
-  email: "info@yokinist.me",
-  link: "https://yokinist.me",
-  externalHPLink: "https://bento.me/yokinist",
-  repository: "https://github.com/yokinist/yokinist.me",
+  title: "armtic.com",
+  author: "armtic",
+  email: "positive703@gmail.con",
+  link: "https://armtic.com",
+  externalLink: "https://bento.me/youandtaichi", // make redirect link to /link page
+  repository: "https://github.com/taichi-dm/armtic.com",
   description:
-    "通り過ぎていく日々の解釈。思考の断片、近況報告など。言葉にして置いておく場所。",
+    "armticのブログ",
   lang: "ja-JP", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: "dark", // ['light', 'dark'],
   font: "sans-serif", // ['sans-serif', 'serif']
@@ -24,9 +24,9 @@ const BLOG = {
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: "https://simple-og-image.vercel.app", // The link to generate OG image, don't end with a slash
   // detail: https://github.com/yokinist/og-image/blob/main/api/_lib/types.ts#L2-L12
-  socialLink: "https://twitter.com/yokinist",
+  socialLink: "https://twitter.com/_armtic",
   seo: {
-    keywords: ["yokinist"],
+    keywords: ["armtic"],
     googleSiteVerification: "", // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！

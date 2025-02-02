@@ -6,11 +6,10 @@ const TAG_SLUGS = {
   Music: "music",
   Book: "book",
   Food: "food",
-  Diary: "diary",
   Boyaki: "boyaki",
   Link: "link",
-  ProductDev: "product-dev",
-  Org: "org",
+  News: "news",
+  Diary: "diary",
 } as const;
 
 export type TagSlug = ValueOf<typeof TAG_SLUGS>;
@@ -42,11 +41,6 @@ const TAG_DATA: Record<TagSlug, TagData> = {
     emoji: "🍙",
     slug: TAG_SLUGS.Food,
   },
-  [TAG_SLUGS.Diary]: {
-    name: "近況報告",
-    emoji: "📢",
-    slug: TAG_SLUGS.Diary,
-  },
   [TAG_SLUGS.Boyaki]: {
     name: "ぼやき",
     emoji: "💭",
@@ -57,15 +51,10 @@ const TAG_DATA: Record<TagSlug, TagData> = {
     emoji: "🔗",
     slug: TAG_SLUGS.Link,
   },
-  [TAG_SLUGS.ProductDev]: {
-    name: "プロダクト開発",
-    emoji: "🛠",
-    slug: TAG_SLUGS.ProductDev,
-  },
-  [TAG_SLUGS.Org]: {
-    name: "組織",
-    emoji: "🌱",
-    slug: TAG_SLUGS.Org,
+  [TAG_SLUGS.Diary]: {
+    name: "近況報告",
+    emoji: "📔", 
+    slug: TAG_SLUGS.Diary,
   },
   [TAG_SLUGS.All]: {
     name: "All",
