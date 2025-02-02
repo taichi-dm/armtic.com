@@ -3,7 +3,7 @@ import { ValueOf } from "lib/types";
 // NOTE: you can customize tags to match the tags in your Notion database
 const TAG_SLUGS = {
   All: "all",
-  Cooking: "cooking", 
+  Cooking: "cooking",
   Art: "art",
   Music: "music",
   Design: "design",
