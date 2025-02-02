@@ -6,11 +6,11 @@ const BLOG = {
   author: "armtic",
   email: "positive703@gmail.con",
   link: "https://armtic.com",
-  externalLink: "https://bento.me/armtic", // make redirect link to /link page
-  repository: "https://github.com/armtic/armtic.me",
+  externalLink: "https://bento.me/youandtaichi", // make redirect link to /link page
+  repository: "https://github.com/taichi-dm/armtic.com",
   description:
-    "This is a template for armtic.com, created by yokinist. 🙏",
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+    "armticのブログ",
+  lang: "ja-JP", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: "dark", // ['light', 'dark'],
   font: "sans-serif", // ['sans-serif', 'serif']
   lightBackground: "#ffffff", // use hex value, don't forget '#' e.g #fffefc
