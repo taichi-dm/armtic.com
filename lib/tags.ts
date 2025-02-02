@@ -51,9 +51,14 @@ const TAG_DATA: Record<TagSlug, TagData> = {
     emoji: "🔗",
     slug: TAG_SLUGS.Link,
   },
+  [TAG_SLUGS.News]: {
+    name: "ニュース",
+    emoji: "📰",
+    slug: TAG_SLUGS.News,
+  },
   [TAG_SLUGS.Diary]: {
     name: "近況報告",
-    emoji: "📔", 
+    emoji: "📔",
     slug: TAG_SLUGS.Diary,
   },
   [TAG_SLUGS.All]: {
