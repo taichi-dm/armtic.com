@@ -4,7 +4,7 @@
 const BLOG = {
   title: "armtic.com",
   author: "armtic",
-  email: "positive703@gmail.con",
+  email: "positive703@gmail.com",
   link: "https://armtic.com",
   externalLink: "https://bento.me/youandtaichi", // make redirect link to /link page
   repository: "https://github.com/taichi-dm/armtic.com",
